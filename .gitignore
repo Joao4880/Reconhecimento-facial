@@ -1,0 +1,10 @@
+# Dados locais e exportações
+faceid-cadastro.json
+*.biometric
+*.descriptors
+
+# Editor e sistema
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
